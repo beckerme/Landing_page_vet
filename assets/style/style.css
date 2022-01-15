@@ -1,0 +1,112 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.backgroundColorNav{
+    background-color: #ddac00;
+    color: white;
+}
+
+.textNav{
+    color: white !important;
+    font-size: 25px;
+}
+
+.nav-item{
+    padding: 0 5%
+}
+
+.navbar{
+    position: fixed;
+    width: 100%;
+    padding: 1.5% 8%;
+}
+
+.divlogo{
+    padding-right: 10%;
+}
+
+.heightfull{
+    color: #fff;
+    height: 100vh;
+}
+
+.fstsection{
+    padding-top: 7%;
+    background-color: #fcc302;
+}
+
+.fstsection-title{
+    font-weight: 600;
+    font-size: 50px;
+    margin-bottom: 5%;
+}
+
+.fstsection-subtitle{
+    color: #fff;
+    font-size: 20px;
+    width: 80%;
+    margin-bottom: 5%;
+}
+
+.DivContentsection{
+    padding: 6%;
+}
+
+.btn-fstsection-Contat{
+    background-color: #00bec9;
+    color: #fff;
+    border: none;
+    padding: 1.4%;
+    margin-right: 2.5%;
+
+    font-size: 20px;
+}
+
+.btn-fstsection-Contat:hover{
+    background-color: #208388;
+    color: #fff;
+}
+
+.btn-fstsection-Services{
+    border: 1px solid #fff;
+    padding: 1.33%;
+    font-size: 20px;
+}
+
+.btn-scndsection-btn2{
+    background-color: #fcc302;
+    border: none;
+    padding: 1.4%;
+    font-weight: 600;
+}
+
+.fstsection-title.-second{
+    color: #000;
+}
+
+.fstsection-subtitle.-second{
+    color: #000;
+}
+
+.YellowSquareSection2{
+    position: absolute;
+    background-color: #fcc302;
+    width: 250px;
+    height: 250px;
+    margin: 0px -35px -35px;
+    bottom: 0px;
+}
+
+.YellowBackSection2{
+    background-color: #fcc302;
+    width: 550px;
+}
+
+.scndsection-img{
+    opacity: 0.8;
+    width: 100%;
+    
+}
